@@ -1,3 +1,3 @@
 # adventure-maze
 
-![text-based-game-maze](text-based-game.gif)
+![Text-Based game-maze](Text-Based-game.gif)
